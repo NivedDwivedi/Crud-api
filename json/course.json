@@ -1,0 +1,39 @@
+[
+  {
+    "id": 1,
+    "name": "English",
+    "description": "Learn English",
+    "availableSlots": 3,
+    "enrolledStudents": [
+      {
+        "id": 1,
+        "name": "Iron man"
+      },
+      {
+        "id": 3,
+        "name": "Captain America"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Hindi",
+    "description": "Learn Hindi",
+    "availableSlots": 5,
+    "enrolledStudents": []
+  },
+  {
+    "id": 3,
+    "name": "Math",
+    "description": "Learn Mathematics",
+    "availableSlots": 5,
+    "enrolledStudents": []
+  },
+  {
+    "id": 4,
+    "name": "Science",
+    "description": "Learn Science",
+    "availableSlots": 5,
+    "enrolledStudents": []
+  }
+]
